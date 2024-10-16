@@ -1,0 +1,154 @@
+Entity,Code,Year,Period life expectancy at birth - Sex: all - Age: 0,GDP per capita,Population (historical),Continent,Health Expenditure,life_Category,Health_Expenditure_Category,GDP_Category,Population_Category
+Afghanistan,AFG,2019.0,63.6,2031.7373,37856126.0,Asia,321.5254,Low,Medium,Low,Very High
+Algeria,DZA,2019.0,76.5,14000.279,43294550.0,Africa,754.2095,High,Medium,High,Very High
+Angola,AGO,2019.0,62.4,6886.954,32375632.0,Africa,171.67917,Low,Low,Medium,High
+Argentina,ARG,2019.0,77.3,17912.637,44973468.0,South America,2187.8289,High,High,High,Very High
+Armenia,ARM,2019.0,75.4,12399.231,2903975.0,Asia,1698.2128,High,High,Medium,Low
+Australia,AUS,2019.0,83.1,49814.67,25482714.0,Oceania,5389.843,Very High,Very High,Very High,High
+Austria,AUT,2019.0,81.9,43488.668,8880875.0,Europe,6098.064,Very High,Very High,Very High,Medium
+Azerbaijan,AZE,2019.0,73.1,17029.906,10110486.0,Asia,600.6251,Medium,Medium,High,Medium
+Bahrain,BHR,2019.0,80.0,39499.707,1485675.0,Asia,2054.1848,Very High,High,Very High,Low
+Bangladesh,BGD,2019.0,72.8,4242.7515,164913060.0,Asia,127.91412,Medium,Low,Low,Very High
+Barbados,BRB,2019.0,77.3,12040.277,281216.0,North America,1051.9863,High,High,Medium,Low
+Belarus,BLR,2019.0,74.2,19130.395,9435414.0,Europe,1146.8568,High,High,High,Medium
+Belgium,BEL,2019.0,81.8,41155.527,11490622.0,Europe,5804.9346,Very High,Very High,Very High,High
+Benin,BEN,2019.0,60.5,2276.1038,12726761.0,Africa,76.34344,Low,Low,Low,High
+Bolivia,BOL,2019.0,67.8,6730.809,11671386.0,South America,612.2984,Medium,Medium,Medium,High
+Bosnia and Herzegovina,BIH,2019.0,77.2,11048.235,3345534.0,Europe,1396.4879,High,High,Medium,Low
+Botswana,BWA,2019.0,65.5,15747.324,2332081.0,Africa,967.26404,Low,High,High,Low
+Brazil,BRA,2019.0,75.3,14257.871,207455459.0,South America,1470.8158,High,High,High,Very High
+Bulgaria,BGR,2019.0,75.1,18840.764,6975467.0,Europe,1730.673,High,High,High,Medium
+Burkina Faso,BFA,2019.0,60.0,1651.1173,20961954.0,Africa,116.97824,Low,Low,Low,High
+Burundi,BDI,2019.0,62.4,738.9831,12255339.0,Africa,49.751534,Low,Low,Low,High
+Cambodia,KHM,2019.0,70.7,3896.7979,16481304.0,Asia,320.87927,Medium,Medium,Low,High
+Cameroon,CMR,2019.0,61.6,2832.0767,25506096.0,Africa,142.9729,Low,Low,Low,High
+Canada,CAN,2019.0,82.4,45284.215,37782931.0,North America,5409.6865,Very High,Very High,Very High,Very High
+Cape Verde,CPV,2019.0,76.0,7297.2793,514116.0,Africa,360.87918,High,Medium,Medium,Low
+Central African Republic,CAF,2019.0,55.0,623.5598,4944707.0,Africa,72.06668,Low,Low,Low,Medium
+Chad,TCD,2019.0,53.3,1543.8029,16685223.0,Africa,70.84669,Low,Low,Low,High
+Chile,CHL,2019.0,80.3,21924.408,19197747.0,South America,2359.2053,Very High,Very High,High,High
+China,CHN,2019.0,78.0,16879.54,1423520354.0,Asia,885.902,High,High,High,Very High
+Colombia,COL,2019.0,76.8,13603.993,49907987.0,South America,1275.9705,High,High,High,Very High
+Comoros,COM,2019.0,64.1,1832.4357,786583.0,Africa,176.97821,Low,Low,Low,Low
+Congo,COG,2019.0,62.7,4583.337,5616656.0,Africa,99.11428,Low,Low,Low,Medium
+Costa Rica,CRI,2019.0,79.4,14775.292,4999551.0,North America,1622.4613,Very High,High,High,Medium
+Croatia,HRV,2019.0,78.7,23590.277,3986338.0,Europe,2074.7686,Very High,High,High,Low
+Cuba,CUB,2019.0,77.6,8257.785,11202847.0,North America,2552.083,High,Very High,Medium,High
+Cyprus,CYP,2019.0,81.4,30284.795,1286669.0,Asia,2962.649,Very High,Very High,Very High,Low
+Czechia,CZE,2019.0,79.2,32226.553,10554871.0,Europe,3265.2122,Very High,Very High,Very High,Medium
+Denmark,DNK,2019.0,81.4,48238.656,5814619.0,Europe,5949.8936,Very High,Very High,Very High,Medium
+Djibouti,DJI,2019.0,63.1,3436.9502,1088708.0,Africa,104.97135,Low,Low,Low,Low
+Dominica,DMA,2019.0,73.6,9575.093,67901.0,North America,669.878,Medium,Medium,Medium,Low
+Dominican Republic,DOM,2019.0,73.6,16587.236,10894043.0,North America,802.93823,Medium,Medium,High,High
+Ecuador,ECU,2019.0,77.3,10586.937,17340017.0,South America,928.175,High,High,Medium,High
+Egypt,EGY,2019.0,71.4,12300.201,107553159.0,Africa,563.58704,Medium,Medium,Medium,Very High
+El Salvador,SLV,2019.0,72.6,8849.834,6222316.0,North America,799.18787,Medium,Medium,Medium,Medium
+Equatorial Guinea,GNQ,2019.0,61.6,25006.34,1670184.0,Africa,510.16132,Low,Medium,High,Low
+Estonia,EST,2019.0,78.7,28505.604,1326821.0,Europe,2586.4763,Very High,Very High,Very High,Low
+Eswatini,SWZ,2019.0,60.5,8375.426,1179885.0,Africa,597.1887,Low,Medium,Medium,Low
+Ethiopia,ETH,2019.0,65.8,2030.6775,115737385.0,Africa,73.53461,Low,Low,Low,Very High
+Finland,FIN,2019.0,81.9,39874.8,5521755.0,Europe,4615.3765,Very High,Very High,Very High,Medium
+France,FRA,2019.0,82.7,39084.656,65729460.0,Europe,5452.0034,Very High,Very High,Very High,Very High
+Gabon,GAB,2019.0,66.6,16449.715,2267710.0,Africa,417.75464,Medium,Medium,High,Low
+Gambia,GMB,2019.0,63.8,1952.326,2456847.0,Africa,68.582275,Low,Low,Low,Low
+Georgia,GEO,2019.0,73.5,12631.664,3796721.0,Asia,1026.1389,Medium,High,Medium,Low
+Germany,DEU,2019.0,81.6,46761.945,83559185.0,Europe,6515.0723,Very High,Very High,Very High,Very High
+Ghana,GHA,2019.0,64.7,4143.3774,31258942.0,Africa,188.97078,Low,Low,Low,High
+Greece,GRC,2019.0,81.2,23869.793,10718580.0,Europe,2489.3096,Very High,Very High,High,High
+Guatemala,GTM,2019.0,73.1,7565.846,17103802.0,North America,541.6041,Medium,Medium,Medium,High
+Guinea,GIN,2019.0,59.7,1690.8837,13034349.0,Africa,107.92607,Low,Low,Low,High
+Guinea-Bissau,GNB,2019.0,60.9,1543.4176,1967704.0,Africa,164.54126,Low,Low,Low,Low
+Haiti,HTI,2019.0,64.3,1719.4462,11105164.0,North America,126.435814,Low,Low,Low,High
+Honduras,HND,2019.0,72.9,5099.8145,9943637.0,North America,427.41885,Medium,Medium,Medium,Medium
+Hungary,HUN,2019.0,76.5,27272.312,9770346.0,Europe,2110.1938,High,High,High,Medium
+Iceland,ISL,2019.0,82.4,43136.605,360709.0,Europe,4959.0605,Very High,Very High,Very High,Low
+India,IND,2019.0,70.9,7293.9897,1389030303.0,Asia,200.7363,Medium,Low,Medium,Very High
+Indonesia,IDN,2019.0,70.5,12250.278,272489379.0,Asia,359.0246,Medium,Medium,Medium,Very High
+Iran,IRN,2019.0,76.1,17400.414,87051647.0,Asia,830.01135,High,Medium,High,Very High
+Iraq,IRQ,2019.0,71.6,14203.617,41192172.0,Asia,456.5961,Medium,Medium,High,Very High
+Ireland,IRL,2019.0,82.3,59733.91,4933491.0,Europe,5866.9624,Very High,Very High,Very High,Medium
+Israel,ISR,2019.0,82.8,33951.89,8657466.0,Asia,3144.2253,Very High,Very High,Very High,Medium
+Italy,ITA,2019.0,83.6,35407.242,60130136.0,Europe,3835.7332,Very High,Very High,Very High,Very High
+Jamaica,JAM,2019.0,71.8,7641.0815,2823275.0,North America,651.07837,Medium,Medium,Medium,Low
+Japan,JPN,2019.0,84.4,38332.934,126699422.0,Asia,4576.246,Very High,Very High,Very High,Very High
+Jordan,JOR,2019.0,76.0,9166.066,10671892.0,Asia,750.2999,High,Medium,Medium,High
+Kazakhstan,KAZ,2019.0,71.6,26026.064,19209556.0,Asia,755.7876,Medium,Medium,High,High
+Kenya,KEN,2019.0,62.9,3207.2622,51202829.0,Africa,208.84805,Low,Low,Low,Very High
+Kuwait,KWT,2019.0,79.7,73748.44,4442202.0,Asia,2638.1775,Very High,Very High,Very High,Medium
+Kyrgyzstan,KGZ,2019.0,71.2,5412.708,6494036.0,Asia,251.49806,Medium,Medium,Medium,Medium
+Laos,LAO,2019.0,68.1,6706.0063,7237634.0,Asia,211.50276,Medium,Low,Medium,Medium
+Latvia,LVA,2019.0,75.5,25858.602,1914267.0,Europe,2104.194,High,High,High,Low
+Lebanon,LBN,2019.0,79.2,12854.797,5794600.0,Asia,1421.7319,Very High,High,High,Medium
+Lesotho,LSO,2019.0,54.2,2514.2244,2209414.0,Africa,291.60077,Low,Medium,Low,Low
+Liberia,LBR,2019.0,61.1,807.3494,5043720.0,Africa,118.68824,Low,Low,Low,Medium
+Lithuania,LTU,2019.0,76.2,28986.053,2795057.0,Europe,2697.288,High,Very High,Very High,Low
+Luxembourg,LUX,2019.0,82.1,54751.6,620166.0,Europe,6448.3203,Very High,Very High,Very High,Low
+Madagascar,MDG,2019.0,65.9,1434.2703,28219558.0,Africa,62.421085,Low,Low,Low,High
+Malawi,MWI,2019.0,64.1,1205.477,19025748.0,Africa,81.26127,Low,Low,Low,High
+Malaysia,MYS,2019.0,75.8,25986.412,33440588.0,Asia,1107.5842,High,High,High,High
+Mali,MLI,2019.0,59.7,1706.0105,21068406.0,Africa,89.7766,Low,Low,Low,High
+Malta,MLT,2019.0,83.2,33220.285,504017.0,Europe,4474.873,Very High,Very High,Very High,Low
+Mauritania,MRT,2019.0,65.7,3659.103,4467714.0,Africa,192.36057,Low,Low,Low,Medium
+Mauritius,MUS,2019.0,75.1,21624.842,1286269.0,Africa,1443.1691,High,High,High,Low
+Mexico,MEX,2019.0,74.2,16802.014,125762977.0,North America,1103.3066,High,High,High,Very High
+Moldova,MDA,2019.0,70.9,7078.23,3112563.0,Europe,859.31854,Medium,Medium,Medium,Low
+Mongolia,MNG,2019.0,71.8,13871.33,3232119.0,Asia,540.2756,Medium,Medium,High,Low
+Montenegro,MNE,2019.0,77.0,20448.549,611673.0,Europe,1896.5116,High,High,High,Low
+Morocco,MAR,2019.0,74.3,8540.804,36210907.0,Africa,430.97742,High,Medium,Medium,Very High
+Mozambique,MOZ,2019.0,61.2,1118.6304,29884376.0,Africa,106.52948,Low,Low,Low,High
+Myanmar,MMR,2019.0,66.6,6140.885,52640718.0,Asia,235.50851,Medium,Medium,Medium,Very High
+Namibia,NAM,2019.0,63.1,8567.793,2650500.0,Africa,881.6004,Low,High,Medium,Low
+Nepal,NPL,2019.0,69.6,2953.5603,28414066.0,Asia,181.71957,Medium,Low,Low,High
+Netherlands,NLD,2019.0,82.0,48142.67,17537506.0,Europe,6004.984,Very High,Very High,Very High,High
+New Zealand,NZL,2019.0,82.6,36912.074,4989412.0,Oceania,4337.69,Very High,Very High,Very High,Medium
+Nicaragua,NIC,2019.0,74.1,4721.7275,6483660.0,North America,477.7302,Medium,Medium,Medium,Medium
+Niger,NER,2019.0,62.9,964.32434,22947765.0,Africa,71.903076,Low,Low,Low,High
+Nigeria,NGA,2019.0,52.9,5197.0825,209485636.0,Africa,157.96266,Low,Low,Medium,Very High
+North Macedonia,MKD,2019.0,77.3,13751.228,1897643.0,Europe,1217.9467,High,High,High,Low
+Norway,NOR,2019.0,83.0,85115.32,5347735.0,Europe,7064.004,Very High,Very High,Very High,Medium
+Oman,OMN,2019.0,78.0,48596.527,4591247.0,Asia,1341.5408,High,High,Very High,Medium
+Pakistan,PAK,2019.0,66.8,5219.534,230800909.0,Asia,155.49756,Medium,Low,Medium,Very High
+Panama,PAN,2019.0,77.8,23218.432,4234699.0,North America,2738.1274,High,Very High,High,Medium
+Paraguay,PRY,2019.0,73.6,8776.076,6515060.0,South America,1016.2749,Medium,High,Medium,Medium
+Peru,PER,2019.0,76.2,12680.354,32449301.0,South America,698.8035,High,Medium,High,High
+Philippines,PHL,2019.0,71.9,8602.1455,110804685.0,Asia,379.195,Medium,Medium,Medium,Very High
+Poland,POL,2019.0,77.9,29142.023,38225884.0,Europe,2178.462,High,High,Very High,Very High
+Portugal,PRT,2019.0,81.7,28056.057,10343218.0,Europe,3444.5684,Very High,Very High,Very High,Medium
+Qatar,QAT,2019.0,81.0,150732.22,2797927.0,Asia,3324.1187,Very High,Very High,Very High,Low
+Romania,ROU,2019.0,76.5,23267.516,19501543.0,Europe,1825.2283,High,High,High,High
+Russia,RUS,2019.0,73.9,25244.12,146533063.0,Europe,1704.5647,Medium,High,High,Very High
+Rwanda,RWA,2019.0,66.4,2042.8529,12776104.0,Africa,144.59143,Low,Low,Low,High
+Saint Lucia,LCA,2019.0,73.4,10977.819,177674.0,North America,702.8055,Medium,Medium,Medium,Low
+Sao Tome and Principe,STP,2019.0,68.5,3781.2275,213404.0,Africa,216.89584,Medium,Low,Low,Low
+Senegal,SEN,2019.0,68.5,2559.8176,16352926.0,Africa,161.0826,Medium,Low,Low,High
+Serbia,SRB,2019.0,76.7,15293.246,6966154.0,Europe,1626.7286,High,High,High,Medium
+Seychelles,SYC,2019.0,74.2,32745.871,117662.0,Africa,1396.2738,High,High,Very High,Low
+Sierra Leone,SLE,2019.0,60.3,1707.3713,7731995.0,Africa,152.66757,Low,Low,Low,Medium
+Singapore,SGP,2019.0,83.8,74649.734,5669562.0,Asia,4415.9277,Very High,Very High,Very High,Medium
+Slovakia,SVK,2019.0,77.7,27429.225,5450626.0,Europe,2222.467,High,High,High,Medium
+Slovenia,SVN,2019.0,81.6,30229.299,2083436.0,Europe,3478.892,Very High,Very High,Very High,Low
+South Africa,ZAF,2019.0,66.2,11739.936,59587880.0,Africa,1187.4005,Low,High,Medium,Very High
+South Korea,KOR,2019.0,83.7,38935.992,51767843.0,Asia,3497.8677,Very High,Very High,Very High,Very High
+Spain,ESP,2019.0,83.5,34957.465,47435120.0,Europe,3826.7764,Very High,Very High,Very High,Very High
+Sri Lanka,LKA,2019.0,76.0,11939.55,22410552.0,Asia,502.33908,High,Medium,Medium,High
+Sweden,SWE,2019.0,83.1,45434.402,10279122.0,Europe,5942.428,Very High,Very High,Very High,Medium
+Switzerland,CHE,2019.0,83.8,62448.598,8577526.0,Europe,8159.703,Very High,Very High,Very High,Medium
+Tajikistan,TJK,2019.0,70.9,4695.543,9529971.0,Asia,258.9041,Medium,Medium,Low,Medium
+Tanzania,TZA,2019.0,67.0,2894.6472,59174889.0,Africa,101.03467,Medium,Low,Low,Very High
+Thailand,THA,2019.0,79.0,16905.293,71522265.0,Asia,724.52344,Very High,Medium,High,Very High
+Togo,TGO,2019.0,60.9,1501.8667,8463068.0,Africa,122.358955,Low,Low,Low,Medium
+Trinidad and Tobago,TTO,2019.0,74.2,27582.568,1484898.0,North America,1734.4132,High,High,Very High,Low
+Tunisia,TUN,2019.0,76.0,11451.897,11875085.0,Africa,631.6803,High,Medium,Medium,High
+Turkey,TUR,2019.0,77.8,23497.504,85357671.0,Asia,1170.5746,High,High,High,Very High
+Turkmenistan,TKM,2019.0,69.0,17264.172,6803942.0,Asia,937.08685,Medium,High,High,Medium
+Uganda,UGA,2019.0,63.0,2128.9087,42999636.0,Africa,94.350716,Low,Low,Low,Very High
+Ukraine,UKR,2019.0,74.5,10139.761,44957450.0,Europe,900.02954,High,High,Medium,Very High
+United Arab Emirates,ARE,2019.0,79.7,74396.14,9377855.0,Asia,3244.3728,Very High,Very High,Very High,Medium
+United Kingdom,GBR,2019.0,81.7,39113.01,67110958.0,Europe,4856.4956,Very High,Very High,Very High,Very High
+United States,USA,2019.0,79.1,56469.26,337790068.0,North America,10661.028,Very High,Very High,Very High,Very High
+Uruguay,URY,2019.0,77.5,19714.148,3397205.0,South America,2276.2139,High,Very High,High,Low
+Uzbekistan,UZB,2019.0,71.3,11219.243,32964702.0,Asia,423.5923,Medium,Medium,Medium,High
+Venezuela,VEN,2019.0,72.2,7061.7617,28938095.0,South America,469.13428,Medium,Medium,Medium,High
+Vietnam,VNM,2019.0,74.1,7266.0483,97173778.0,Asia,536.00665,Medium,Medium,Medium,Very High
+Zambia,ZMB,2019.0,62.8,3466.2363,18513841.0,Africa,186.97934,Low,Low,Low,High
+Zimbabwe,ZWE,2019.0,61.3,1753.0244,15271377.0,Africa,132.0687,Low,Low,Low,High

@@ -1,0 +1,93 @@
+---
+title: "Hypothesis Testing"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+date: "2024-10-13"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 4.Hypothesis Testing
+
+
+1. What is the effect of GDP per capita on average life expectancy, and does this effect vary by continent?
+
+2. What is the effect of Health Expenditure on average life expectancy, and does this effect vary by continent?
+
+### 4.1: Why ANCOVA
+
+ANCOVA allows comparison across multiple groups, reducing the risk of 
+Type I errors that occur with multiple t-tests. It explains the variance 
+in data, can include covariates, and is ideal for continuous 
+outcomes like life expectancy. Additionally, post-hoc tests (e.g., Tukey's HSD)
+offer detailed pairwise comparisons when significant differences are found.
+
+### 4.2: Selecting Variables:
+
+The 1st model utilizes GDP per capita as the continuous independent variable and Continent as the categorical independent variable, predicting the dependent variable, average life expectancy at birth.
+
+In the 2nd model, Health Expenditure serves as the continuous independent variable, alongside Continent as the categorical independent variable, with the dependent variable being average life expectancy at birth.
+
+### 4.3 Initial Hypothesis:
+
+### Model 1
+
+ Null Hypothesis (H0):
+  There is no relationship between Continent and Life Expectancy, controlling for their GDP.
+ 
+ Alternate Hypothesis (H1):
+  There is a significant relationship between Continent and Life Expectancy, controlling for their GDP.
+  
+### Model 2
+
+ Null Hypothesis (H0):
+  There is no relationship between Continent and Life Expectancy, controlling for their Health Expectancy.
+ 
+ Alternate Hypothesis (H1):
+  There is a significant relationship between Continent and Life Expectancy, controlling for their Health Expectancy.
+  
+### 4.4.1 Testing:
+
+
+```{r}
+dat=read.csv("C:\\Users\\lalit\\Downloads\\602_hypothesis.csv")
+library(dplyr)
+anova_gdp_continent = aov(Period.life.expectancy.at.birth...Sex..all...Age..0 ~ GDP.per.capita * Continent, data = dat)
+summary(anova_gdp_continent)
+
+tukey_result <- TukeyHSD(anova_gdp_continent, "Continent")
+print(tukey_result)
+
+```
+
+### 4.4.2 Testing:
+
+```{r}
+anova_hE_continent = aov(Period.life.expectancy.at.birth...Sex..all...Age..0 ~ Health.Expenditure * Continent, data = dat)
+summary(anova_hE_continent)
+
+tukey_result <- TukeyHSD(anova_hE_continent, "Continent")
+print(tukey_result)
+
+```
+
+
+### 4.5 Result and Interpretation:
+
+##### Model 1 Life Expectency ~ Continent and GDP
+#### 4.5.1 ANCOVA:
+There is a relationship between Continent and Life Expectancy, controlling for GDP per capita. The mean life expectancy in some continents is significantly different from others. For instance, countries with higher GDP per capita tend to have higher life expectancy, but the effect of GDP on life expectancy varies across continents, indicating that the relationship between GDP per capita and Life Expectancy is not the same for all continents.
+
+##### 4.5.2 Tukey (HSD):
+The Tukey HSD results indicate significant differences in life expectancy between several continent pairs, particularly between Africa and Asia, Europe, North America, Oceania, and South America, all with p-values less than 0.05.
+
+##### Model 2 Life Expectency ~ Continent and Health Expenditure
+#### 4.5.3 ANCOVA:
+There is a relationship between Continent and Life Expectancy, controlling for Health Expenditure. The mean life expectancy varies significantly between continents. For instance, countries with higher health expenditure generally have higher life expectancy, but the effect of health expenditure on life expectancy is not uniform across all continents. This suggests that the relationship between Health Expenditure and Life Expectancy differs depending on the continent.
+
+##### 4.5.4 Tukey (HSD):
+The Tukey HSD results show significant differences in life expectancy between several continent pairs, particularly between Africa and Asia, Europe, North America, and South America, all with p-values less than 0.05.
